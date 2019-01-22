@@ -1,2 +1,2 @@
 # peoplecounter
-Contatodor de Pessoas usando Flutter
+Contador de Pessoas usando Flutter
